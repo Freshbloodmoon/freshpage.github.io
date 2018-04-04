@@ -41,8 +41,8 @@ footer {
 
 }
 #button1 {
-	height: 100px;
-	width: 200px;
+	height: 6.3em;
+	width: 12.5em;
 	background-image: url(../images/video.jpg);
 	transition: 0.1s linear;
 	box-shadow: 5px 0px 0px 0px #0C0F44;
